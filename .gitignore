@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# sequelize
+server/todolist.sqlite
+
+#package-lock
+*package-lock.json
+
+build/
+dist/
+config/
+static/
