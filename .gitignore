@@ -109,7 +109,3 @@ server/todolist.sqlite
 #package-lock
 *package-lock.json
 
-build/
-dist/
-client/config/
-static/
