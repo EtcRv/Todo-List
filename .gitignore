@@ -111,5 +111,5 @@ server/todolist.sqlite
 
 build/
 dist/
-config/
+client/config/
 static/
