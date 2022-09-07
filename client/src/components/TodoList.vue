@@ -57,7 +57,7 @@ export default {
         owner: this.$store.state.user.id
       })
 
-      console.log("result: ", result)
+      // console.log("result: ", result)
     }
 	},
   async mounted() {

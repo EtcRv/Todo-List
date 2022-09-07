@@ -109,3 +109,4 @@ server/todolist.sqlite
 #package-lock
 *package-lock.json
 
+.idea
